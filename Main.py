@@ -27,12 +27,15 @@ def Error(msg):
             err = QMessageBox.warning(window, msg, "Введен неверный id группы")
         case "Access denied: group hide members":
             err = QMessageBox.warning(window, msg, "Группа закрыла доступ к своим подписчикам")
+        case "User authorization failed: no access_token passed.":
+            err = QMessageBox.warning(window, msg, "Вы не записали свой access token Vk в файл token.txt")
 
 def Checked_for_error():
     url = f"https://api.vk.com/method/groups.getMembers?access_token={params['token']}&group_id={params['group_id']}&sort={params['sort']}&offset={params['offset']}&count=100&v=5.131"
     response = requests.get(url).json()
     if "error" in response.keys():
         Error(response['error']['error_msg'])
+        print(response['error']['error_msg'])
         return False
     else:
         return True
