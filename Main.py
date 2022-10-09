@@ -1,13 +1,26 @@
+import datetime
+from PyQt6.QtWidgets import QApplication, QDialog, QFileDialog
+from App_files.Main_Window import Ui_MainWindow
+from App_files.Checker import Begin_Check
 from openpyxl import load_workbook
 import requests
 import time
+import sys
+
+app = QApplication(sys.argv)
+window = QDialog()
+window.setFixedSize(480,360)
+ui = Ui_MainWindow("Bebra")
+ui.setupUi(window)
+window.show()
+
 
 names, page_ids, page_url = [], [], []
 total_count = 0
 sleep = 1
 params = {
-    "token" : open("token.txt", "r").readline(),
-    "group_id" : "diarywebvdv",
+    "token" : open("App_files/token.txt", "r").readline(),
+    "group_id" : "",
     "sort" : "id_asc",
     "offset" : 0
 }
@@ -35,31 +48,62 @@ def Check():
 
     User_check(ids)
 
-url = f"https://api.vk.com/method/groups.getMembers?access_token={params['token']}&group_id={params['group_id']}&sort={params['sort']}&offset={params['offset']}&count=100&v=5.131"
-response = requests.get(url).json()
-total_count = response["response"]["count"]
+def Begin():
+    global total_count
 
-while total_count > params["offset"]:
-    Check()
-    params["offset"] += 100
-    time.sleep(0.5)
+    url = f"https://api.vk.com/method/groups.getMembers?access_token={params['token']}&group_id={params['group_id']}&sort={params['sort']}&offset={params['offset']}&count=100&v=5.131"
+    response = requests.get(url).json()
 
-exel_file = "Table.xlsx"
-work_book = load_workbook(exel_file)
+    if "error" in response.keys():
+        print(response["error"]["error_msg"])
+        return
 
-if "Data" in work_book:
-    work_book.remove(work_book["Data"])
+    total_count = response["response"]["count"]
 
-work_list = work_book.create_sheet("Data")
-work_list.column_dimensions['A'].width = 10
-work_list.column_dimensions['B'].width = 24
-work_list.column_dimensions['C'].width = 10
-work_list.column_dimensions['D'].width = 30
-for i in range(1,len(names)+1):
-    work_list[f"A{i}"] = i
-    work_list[f"B{i}"] = names[i-1]
-    work_list[f"C{i}"] = page_ids[i-1]
-    work_list[f"D{i}"] = page_url[i-1]
+    while total_count > params["offset"]:
+        Check()
+        params["offset"] += 100
+        time.sleep(0.5)
 
-work_book.save(exel_file)
-work_book.close()
+def Create_table(url,new):
+    wb = load_workbook(url)
+
+    if new == True:
+        ws = wb.create_sheet("Members_Data")
+    elif new == False:
+        ws = wb[wb.sheetnames[-1]]
+
+    ws.column_dimensions['A'].width = 24
+    ws.column_dimensions['B'].width = 15
+    ws.column_dimensions['C'].width = 30
+    for i in range(1,len(names)+1):
+        ws[f"A{i}"] = names[i-1]
+        ws[f"B{i}"] = page_ids[i-1]
+        ws[f"C{i}"] = page_url[i-1]
+
+    wb.save(url)
+    wb.close()
+
+def New_file():
+    params["group_id"] = ui.Path.text()
+
+    Begin()
+
+    f_path = f"New_tables/Table_{params['group_id']}.xlsx"
+    f = open(f_path,"a")
+    f.close()
+
+    Create_table(f_path,True)
+
+def Exist_file():
+    params["group_id"] = ui.Path.text()
+
+    Begin()
+
+    f_path = QFileDialog.getOpenFileName(window, 'Open file')[0]
+
+    Create_table(f_path, False)
+
+ui.New.clicked.connect(New_file)
+ui.Exist.clicked.connect(Exist_file)
+sys.exit(app.exec())
