@@ -1,23 +1,19 @@
-import datetime
-from PyQt6.QtWidgets import QApplication, QDialog, QFileDialog
+from msilib.schema import Error
+from PyQt6.QtWidgets import QApplication, QDialog, QFileDialog, QMessageBox
 from App_files.Main_Window import Ui_MainWindow
-from App_files.Checker import Begin_Check
-from openpyxl import load_workbook
+from App_files.Checker import Checker
+from openpyxl import Workbook
 import requests
-import time
 import sys
+import os
 
 app = QApplication(sys.argv)
 window = QDialog()
 window.setFixedSize(480,360)
-ui = Ui_MainWindow("Bebra")
+ui = Ui_MainWindow()
 ui.setupUi(window)
 window.show()
 
-
-names, page_ids, page_url = [], [], []
-total_count = 0
-sleep = 1
 params = {
     "token" : open("App_files/token.txt", "r").readline(),
     "group_id" : "",
@@ -25,84 +21,42 @@ params = {
     "offset" : 0
 }
 
-def User_check(ids):
-    users = ','.join(ids)
-    u_url = f"https://api.vk.com/method/users.get?access_token={params['token']}&user_ids={users}&v=5.131"
-    response = requests.get(u_url).json()
+def Error(msg):
+    match msg:
+        case "Invalid group id":
+            err = QMessageBox.warning(window, msg, "Введен неверный id группы")
+        case "Access denied: group hide members":
+            err = QMessageBox.warning(window, msg, "Группа закрыла доступ к своим подписчикам")
 
-    for prof in response['response']:
-        names.append(prof['first_name']+" "+prof['last_name'])
-        page_ids.append(prof['id'])
-        page_url.append("https://vk.com/"+str(prof['id']))
-
-def Check():
-    global sleep
-
+def Checked_for_error():
     url = f"https://api.vk.com/method/groups.getMembers?access_token={params['token']}&group_id={params['group_id']}&sort={params['sort']}&offset={params['offset']}&count=100&v=5.131"
     response = requests.get(url).json()
-    count = response["response"]["count"]
-    ids = []
-
-    for obj in response["response"]["items"]:
-        ids.append(str(obj))
-
-    User_check(ids)
-
-def Begin():
-    global total_count
-
-    url = f"https://api.vk.com/method/groups.getMembers?access_token={params['token']}&group_id={params['group_id']}&sort={params['sort']}&offset={params['offset']}&count=100&v=5.131"
-    response = requests.get(url).json()
-
     if "error" in response.keys():
-        print(response["error"]["error_msg"])
-        return
-
-    total_count = response["response"]["count"]
-
-    while total_count > params["offset"]:
-        Check()
-        params["offset"] += 100
-        time.sleep(0.5)
-
-def Create_table(url,new):
-    wb = load_workbook(url)
-
-    if new == True:
-        ws = wb.create_sheet("Members_Data")
-    elif new == False:
-        ws = wb[wb.sheetnames[-1]]
-
-    ws.column_dimensions['A'].width = 24
-    ws.column_dimensions['B'].width = 15
-    ws.column_dimensions['C'].width = 30
-    for i in range(1,len(names)+1):
-        ws[f"A{i}"] = names[i-1]
-        ws[f"B{i}"] = page_ids[i-1]
-        ws[f"C{i}"] = page_url[i-1]
-
-    wb.save(url)
-    wb.close()
+        Error(response['error']['error_msg'])
+        return False
+    else:
+        return True
 
 def New_file():
     params["group_id"] = ui.Path.text()
 
-    Begin()
+    if not Checked_for_error():
+        return
 
-    f_path = f"New_tables/Table_{params['group_id']}.xlsx"
-    f = open(f_path,"a")
-    f.close()
+    f_path = os.getcwd() + f"/New_tables/Table_{params['group_id']}.xlsx"
+    wb = Workbook()
+    wb.save(f_path)
 
-    Create_table(f_path,True)
+    Checker(params,f_path,True)
 
 def Exist_file():
     params["group_id"] = ui.Path.text()
 
-    Begin()
+    if not Checked_for_error():
+        return
 
-    f_path = QFileDialog.getOpenFileName(window, 'Open file')[0]
-
-    Create_table(f_path, False)
+    f_path = QFileDialog.getOpenFileName(window, 'Open file', filter="*.xlsx")[0]
+    Checker(params,f_path,False)
 
 ui.New.clicked.connect(New_file)
 ui.Exist.clicked.connect(Exist_file)

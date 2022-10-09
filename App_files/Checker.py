@@ -1,4 +1,3 @@
-from msilib.schema import Class
 from openpyxl import load_workbook
 import requests
 import time
@@ -6,12 +5,13 @@ import time
 names, page_ids, page_url = [], [], []
 total_count = 0
 sleep = 1
-
 class Checker:
 
-    def __init__(self, params,):
-       self.self.params = self.params
+    def __init__(self, params,wb,new):
+       self.params = params
        self.Begin()
+       self.Create_table(wb,new)
+
 
     def User_check(self,ids):
         users = ','.join(ids)
@@ -55,9 +55,11 @@ class Checker:
 
 
     def Create_table(self,url,new):
+
         wb = load_workbook(url)
 
         if new == True:
+            wb.remove(wb[wb.sheetnames[-1]])
             ws = wb.create_sheet("Members_Data")
         elif new == False:
             ws = wb[wb.sheetnames[-1]]
