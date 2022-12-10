@@ -1,6 +1,8 @@
+# from PyQt6.QtWidgets import QMessageBox, QDialog
 from openpyxl import load_workbook
 import requests
 import time
+import json
 
 names, page_ids, page_url = [], [], []
 total_count = 0
@@ -10,8 +12,11 @@ class Checker:
     def __init__(self, params,wb,new):
        self.params = params
        self.Begin()
-       self.Create_table(wb,new)
+       if self.params["Excel"]:
+            self.Create_table(wb,new)
 
+       if self.params["JSON"]:
+            self.Create_JSON(params["group_id"])
 
     def User_check(self,ids):
         users = ','.join(ids)
@@ -51,7 +56,7 @@ class Checker:
         while total_count > self.params["offset"]:
             self.Check()
             self.params["offset"] += 100
-            time.sleep(0.5)
+            time.sleep(0.45)
 
 
     def Create_table(self,url,new):
@@ -74,3 +79,13 @@ class Checker:
 
         wb.save(url)
         wb.close()
+
+    def Create_JSON(self, url):
+        base = {"info" : []}
+
+        for i in range(len(names)):
+            user = {"Name" : names[i], "ID" : page_ids[i], "Link" : page_url[i]}
+            base["info"].append(user)
+
+        with open(f"New_tables/{url}.json", "w", encoding="utf-8") as wf:
+            wf.write(json.dumps(base, indent = 4, ensure_ascii=False))

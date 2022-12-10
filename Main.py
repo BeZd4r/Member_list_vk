@@ -1,8 +1,10 @@
-from PyQt6.QtWidgets import QApplication, QDialog, QFileDialog, QMessageBox
+from PyQt6.QtWidgets import QApplication, QDialog, QFileDialog, QMessageBox, QPushButton
 from App_files.Main_Window import Ui_MainWindow
 from App_files.Checker import Checker
+from threading import Thread
 from openpyxl import Workbook
 import requests
+import time
 import sys
 import os
 
@@ -13,11 +15,15 @@ ui = Ui_MainWindow()
 ui.setupUi(window)
 window.show()
 
+calculate = None
+colors = {False : "#ff0000", True : "#19ff19"}
 params = {
     "token" : open("App_files/token.txt", "r").readline(),
     "group_id" : "",
     "sort" : "id_asc",
-    "offset" : 0
+    "offset" : 0,
+    "Excel" : True,
+    "JSON"  : False
 }
 
 def Error(msg):
@@ -40,7 +46,22 @@ def Checked_for_error():
     else:
         return True
 
+def Check_proccess():
+    if calculate != None:
+        if calculate.is_alive():
+            def Stop():
+                calculate.join()
+            stop = QPushButton("Остановить")
+            stop.clicked.connect(Stop)
+            not_yet = QMessageBox.warning(window, "Мы еще не закончили!", "Еще выполняется парсинг прошлого запроса :)")
+            return
+
+def Begin_to_main(f_path,new):
+    Checker(params,f_path,new)
+
 def New_file():
+    global calculate
+
     params["group_id"] = ui.Path.text()
     params["token"] = open("App_files/token.txt", "r").readline()
 
@@ -51,11 +72,17 @@ def New_file():
     wb = Workbook()
     wb.save(f_path)
 
-    Checker(params,f_path,True)
-    done = QMessageBox.information(window, "Succesful!", f"{params['group_id']} готово!")
-
+    calculate = Thread(target=Begin_to_main ,args=(f_path, True))
+    calculate.start()
+    # i = 0
+    # while calculate.is_alive():
+    #     print(i)
+    #     i+=1
+    #     time.sleep(1)
 
 def Exist_file():
+    global calculate
+
     params["group_id"] = ui.Path.text()
     params["token"] = open("App_files/token.txt", "r").readline()
 
@@ -63,9 +90,20 @@ def Exist_file():
         return
 
     f_path = QFileDialog.getOpenFileName(window, 'Open file', filter="*.xlsx")[0]
-    Checker(params,f_path,False)
-    done = QMessageBox.information(window, "Succesful!", f"{params['group_id']} готово!")
+
+    calculate = Thread(target=Begin_to_main ,args=(f_path, False))
+    calculate.start()
+
+def Create_Excel():
+    params["Excel"] = not params["Excel"]
+    ui.Excel.setStyleSheet(f"background-color: {colors[params['Excel']]}")
+
+def Create_JSON():
+    params["JSON"] = not params["JSON"]
+    ui.JSON.setStyleSheet(f"background-color: {colors[params['JSON']]}")
 
 ui.New.clicked.connect(New_file)
 ui.Exist.clicked.connect(Exist_file)
+ui.Excel.clicked.connect(Create_Excel)
+ui.JSON.clicked.connect(Create_JSON)
 sys.exit(app.exec())
