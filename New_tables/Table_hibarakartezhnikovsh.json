@@ -1,0 +1,919 @@
+{
+    "users": {
+        "42926893": {
+            "Name": "Владимир Безугляк",
+            "link": "https://vk.com/42926893",
+            "Photo": "https://sun1-27.userapi.com/s/v1/ig1/HAK65xbSbL9ZhdCSO5IRJj0ZrMIuqsycgqQAc9Y6lfd6U4uVofQY4ExLRI7vrPtRI3Zt8BDM.jpg?size=400x400&quality=96&crop=0,373,1620,1620&ava=1"
+        },
+        "49875132": {
+            "Name": "Михаил Лихолетов",
+            "link": "https://vk.com/49875132",
+            "Photo": "https://sun1-24.userapi.com/s/v1/ig2/CbVn5ZyY_13wR6R9aZYV7cT0VVbvSZET_iLnpZ7F7gQ-6wyLVtT9vbCiJv0jqGqrfdqgBizvomxTsJzhEepD1fOl.jpg?size=360x360&quality=95&crop=393,245,360,360&ava=1"
+        },
+        "51523323": {
+            "Name": "Михаил Панфилов",
+            "link": "https://vk.com/51523323",
+            "Photo": "https://sun1-88.userapi.com/s/v1/if1/GERpcMJodZk7r8sPDnmVW0A3WgKA9wy4KDiODVYbH3DJgdGoXoU3OkstS2rNnz4PeVBQnA.jpg?size=350x350&quality=96&crop=117,0,350,350&ava=1"
+        },
+        "65877241": {
+            "Name": "Денис Фомин",
+            "link": "https://vk.com/65877241",
+            "Photo": "https://sun1-90.userapi.com/s/v1/ig2/Y9HdVuWJ-HQNPgszhNAKSg9_ZWzSD22QTMjQv5Fnqf8uomL44a_ai9kHWRwa4ziNgB5Ip1BaN6cYRvLOJacnNNJT.jpg?size=400x400&quality=96&crop=76,0,532,532&ava=1"
+        },
+        "73306963": {
+            "Name": "Кирилл Мелихов",
+            "link": "https://vk.com/73306963",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/dWbyfIxTJOKWFmgNVbwBH3aVzvL5zqXl5soHvF96RbOA_0oyZ6bf3gvmreohuKE3LIhRxnCu2IcYU8Tpy2BFFUSP.jpg?size=310x310&quality=95&crop=342,319,310,310&ava=1"
+        },
+        "84649771": {
+            "Name": "Даниил Лавров",
+            "link": "https://vk.com/84649771",
+            "Photo": "https://sun1-28.userapi.com/s/v1/if1/0gSDu4hwqQstEqtP1qToX7V8fVndmzbYLo7BjlVQPqI2Bs5hwLmwUwcGR8OZgFJbYHAtcQ9j.jpg?size=400x400&quality=96&crop=14,69,460,460&ava=1"
+        },
+        "86658596": {
+            "Name": "Степан Афанасьев",
+            "link": "https://vk.com/86658596",
+            "Photo": "https://sun1-26.userapi.com/s/v1/if2/VJ2bhtQXyC41e_GHBqQDbgQV-jcoC0I19Q4ZNPZ7bz8mTP_g0Hda-yjgoweMnf0171-_BSVfqJUpQ-62voPkjGwr.jpg?size=400x400&quality=96&crop=49,0,606,606&ava=1"
+        },
+        "88463263": {
+            "Name": "Артём Бахтияров",
+            "link": "https://vk.com/88463263",
+            "Photo": "https://sun1-18.userapi.com/s/v1/if1/8A17QPHqm-pp8ngn5PLHaa-LRnlu-Z368zzvIgy6Han5i__WowihXPAcKmpCSIbuBstXZwS8.jpg?size=306x306&quality=96&crop=383,107,306,306&ava=1"
+        },
+        "99878516": {
+            "Name": "Клед Акатсу",
+            "link": "https://vk.com/99878516",
+            "Photo": "https://sun1-95.userapi.com/s/v1/ig2/o3B4hoZQaKYD0WlKcOuhMIv52iRmpEqGxHOoTKtY-jAnyYkaRiKlY69jvawgVnVU1uMJBzgkzh9YZ4ke96YJETxX.jpg?size=400x400&quality=95&crop=2,26,957,957&ava=1"
+        },
+        "133529479": {
+            "Name": "Данила Бажин",
+            "link": "https://vk.com/133529479",
+            "Photo": "https://sun1-83.userapi.com/s/v1/ig2/lRTARZiy33qeoXgk4T8EACiBb2JrcGceCoGGWKyuA-gXDt6zlZX_4oGoRdk3EtNXiH3TeVmOIOyglV1aFMiPC4yt.jpg?size=400x400&quality=95&crop=212,224,400,400&ava=1"
+        },
+        "135150906": {
+            "Name": "Кирилл Воронцов",
+            "link": "https://vk.com/135150906",
+            "Photo": "https://sun1-29.userapi.com/s/v1/ig2/LRNUxKvRdPzO__GPVI7szJL-LSUdsVbK3ClLsL9L34CqkSzcpVwSA79lGwxhHnrBYNpkoj9imsJs1aiJFj0yVO7N.jpg?size=324x324&quality=95&crop=481,817,324,324&ava=1"
+        },
+        "135655984": {
+            "Name": "Андрей Гончаренко",
+            "link": "https://vk.com/135655984",
+            "Photo": "https://sun1-28.userapi.com/McdpcTNn6Mp4mz_rP2cHD_9_ewdfWU4Va-T42g/qwMS8N3slgU.png"
+        },
+        "150722550": {
+            "Name": "Лев Ульянкин",
+            "link": "https://vk.com/150722550",
+            "Photo": "https://sun1-19.userapi.com/s/v1/ig2/xSxwxnlKLklf0T5Xma6cvjDgyd5WmW7-723QRA2GK0Ag-UWLo7k-LC3crsC_JoTgdLCOBWCGMoD8Ie_kmtBLSkb0.jpg?size=400x400&quality=96&crop=704,144,1152,1152&ava=1"
+        },
+        "162408856": {
+            "Name": "Рафис Хамматов",
+            "link": "https://vk.com/162408856",
+            "Photo": "https://sun1-23.userapi.com/s/v1/ig2/a_JtKhIqsG_FaNmv8jIx9aUZ8j364ujCCW-0hxyvsvYQWmipRNoKe2R-FC37Buz_fdZKnuHym55mAODtPmqvouMN.jpg?size=400x400&quality=95&crop=0,360,1840,1840&ava=1"
+        },
+        "163194019": {
+            "Name": "Петр Глухов",
+            "link": "https://vk.com/163194019",
+            "Photo": "https://sun1-88.userapi.com/s/v1/ig2/uHr2_yMWwhMbPZOsNIasC7dF99UbNABTje90-bVNpllfn5wfi-w635C-vzV5xZiSiarsdzhlKhxbjKlp34pX_wXH.jpg?size=400x400&quality=95&crop=89,0,510,510&ava=1"
+        },
+        "173264049": {
+            "Name": "Данила Ожигов",
+            "link": "https://vk.com/173264049",
+            "Photo": "https://sun1-88.userapi.com/s/v1/if1/xHuY0xBI4fb6F15IvVUpJ1fhPQSICvpo90EkDrzle1lVe6rhleVp2kRXvsAENmQYrrSpCe7k.jpg?size=288x288&quality=96&crop=266,157,288,288&ava=1"
+        },
+        "175226617": {
+            "Name": "Эрик Шумик",
+            "link": "https://vk.com/175226617",
+            "Photo": "https://sun1-25.userapi.com/s/v1/ig2/YKA1w86oMYST4o6pLqfzx6fzjclyraX85QWwNEnJN2ghpqMvDSqgVexMaduZdPDYE6KqM5iNmGHxXWpBF9sYKAxk.jpg?size=400x400&quality=95&crop=97,22,534,534&ava=1"
+        },
+        "177139711": {
+            "Name": "Илья Горкин",
+            "link": "https://vk.com/177139711",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/9SPR53DukV2I9ga8rgd0w8efiGR7aRl7XuHl3SBzc-QZwijqnZObqOqXqvuq9e58-nevHN47phLFE3biibp3maty.jpg?size=400x400&quality=95&crop=566,242,542,542&ava=1"
+        },
+        "177532398": {
+            "Name": "Всеволод Микрюков",
+            "link": "https://vk.com/177532398",
+            "Photo": "https://sun1-15.userapi.com/s/v1/ig2/Sf5w5OKwDlQckxpsVCIiCkYWdecBGbrlmQAdGPAJ70H9ZL6py-A8jQyZoZn6b7bI61VEdQCf80ZugPQybDM2kV1B.jpg?size=400x400&quality=96&crop=2,2,1915,1915&ava=1"
+        },
+        "184682962": {
+            "Name": "Дионис Виноградский",
+            "link": "https://vk.com/184682962",
+            "Photo": "https://sun1-86.userapi.com/s/v1/ig2/nJBO2CXl3HT26DQsBRNkzNzZjrioaftyl81kYJL0I6Y7xldiiz14LhZU0O_V4GaR9eeEe5pjNAL5phICBYCVbrVK.jpg?size=400x400&quality=95&crop=226,268,2180,2180&ava=1"
+        },
+        "185433103": {
+            "Name": "Miroslav Lavrinenko",
+            "link": "https://vk.com/185433103",
+            "Photo": "https://sun1-24.userapi.com/s/v1/ig2/xftOlVApFJlneJfk1v3mZS-UCSRFaThvPf36F-g0BA31IizZtzaRSLfnDsUICelG11iI__7hpv2xMuK8atdWCVyq.jpg?size=400x400&quality=96&crop=824,276,1232,1232&ava=1"
+        },
+        "188958982": {
+            "Name": "Дима Мишнев",
+            "link": "https://vk.com/188958982",
+            "Photo": "https://sun1-17.userapi.com/s/v1/ig1/dFqh04PkAs2CuHi-Gmo_mmXBxSWy8Mlv6NWFZwt2d-kKPQNJ-Ica-ZWKIVVS7wl2Mg_OBFkB.jpg?size=400x400&quality=96&crop=3,128,1616,1616&ava=1"
+        },
+        "191880582": {
+            "Name": "Ваня Кручкоў",
+            "link": "https://vk.com/191880582",
+            "Photo": "https://sun1-97.userapi.com/s/v1/ig2/UB4Y9buye2bSQRGP9C54X29WHzhP6TMhaAhd4w1oYPZaKEl0pMjsMyVipsZENNfvoKz6Q7z8ue4MnyjZaJnUFasS.jpg?size=400x400&quality=95&crop=764,183,917,917&ava=1"
+        },
+        "199758166": {
+            "Name": "Игорь Рожков",
+            "link": "https://vk.com/199758166",
+            "Photo": "https://sun1-54.userapi.com/s/v1/if1/OSZiFOL3xvGhlDEts3lcRV-090ghHybg039pKAAyYqrsJ_GM1fraBfhI1wx2_0_eCxdHaQ.jpg?size=400x400&quality=96&crop=2,272,1614,1614&ava=1"
+        },
+        "200983377": {
+            "Name": "Святослав Куклуксклан",
+            "link": "https://vk.com/200983377",
+            "Photo": "https://sun1-85.userapi.com/s/v1/ig2/T-7CwFdCwWGax21wDWC9DfzWOdouGol0OOaIAUEWigxETHzgV_RQeNXYCh0pJ0ENc5K1FInAvLWP_e4xfQXZeebB.jpg?size=400x400&quality=95&crop=6,0,724,724&ava=1"
+        },
+        "201750538": {
+            "Name": "Никита Хиван",
+            "link": "https://vk.com/201750538",
+            "Photo": "https://sun1-54.userapi.com/s/v1/ig2/83Kdc_0ZglWhg877OABPY3AMLPOpQWZCFmrSIykLAP7YbeOfhVhnnmlYMlyTsmh_zLk0r5NBdA8wHTP0uKCwYl_L.jpg?size=400x400&quality=95&crop=378,0,675,675&ava=1"
+        },
+        "202318236": {
+            "Name": "Игорь Лисичкин",
+            "link": "https://vk.com/202318236",
+            "Photo": "https://sun1-84.userapi.com/s/v1/ig2/unuppAZgSvwSz8LFJBZfqz0ponMSR0xVQNYEk1Xewe9sY8DOdl7XAdWGgkASjW1NLW5QXzz4W9GRjEc6yZAYKwj8.jpg?size=342x342&quality=95&crop=234,0,342,342&ava=1"
+        },
+        "208029673": {
+            "Name": "Ростислав Макаров",
+            "link": "https://vk.com/208029673",
+            "Photo": "https://sun1-30.userapi.com/s/v1/ig2/KBfpwGmkP8-1D08-FrTx7MBSOxmtPthKZ04Q_SIejkVNwC7esb3Fk-c7jzyPlgF3uFW29MGpsW397Il3qCeIUqt0.jpg?size=400x400&quality=95&crop=628,266,512,512&ava=1"
+        },
+        "208259153": {
+            "Name": "Павел Чарушин",
+            "link": "https://vk.com/208259153",
+            "Photo": "https://sun1-54.userapi.com/s/v1/ig2/YrZB-qG-4pem7WkClDoMBEVrZQlKUJqi7NcAF4YJtKvLC6FqcCf1dW_xzOM4BIS_2d6tdG7sPV5fdWshbCYhj-Sp.jpg?size=400x400&quality=95&crop=53,18,536,536&ava=1"
+        },
+        "208337191": {
+            "Name": "Кирилл Клыков",
+            "link": "https://vk.com/208337191",
+            "Photo": "https://vk.com/images/camera_200.png"
+        },
+        "209180231": {
+            "Name": "Данил Андреев",
+            "link": "https://vk.com/209180231",
+            "Photo": "https://sun1-94.userapi.com/s/v1/ig2/Kjhk_n0uQhT86ldVYCRjDN04ZlURnHS4ZhAFXDM1K8KFkziXbRNPTmOUbbXZ2iwn6o5NoRa7TnY3zq9PqVD-1fNV.jpg?size=400x400&quality=95&crop=116,130,903,903&ava=1"
+        },
+        "209196182": {
+            "Name": "Ярослав Кондионов",
+            "link": "https://vk.com/209196182",
+            "Photo": "https://sun1-13.userapi.com/s/v1/ig2/_D4Ux_JAigm0uS-NFhf2hcSiiSpParzSLJsmBYOIMIMd8bJB39CmRymlxbai1k-FfWjq1GT2tvjpKQAV3vEuRLpn.jpg?size=400x400&quality=95&crop=228,18,699,699&ava=1"
+        },
+        "209332343": {
+            "Name": "Виктор Пегушин",
+            "link": "https://vk.com/209332343",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/ML74CUhLAful3tLeQjrBQWnYo-7DDYykMs3mN5cdr9bqqz65iDKRoOtc0pQhS-LbMaM6NdY4g-zeZarrzAcJr0c_.jpg?size=400x400&quality=95&crop=20,144,559,559&ava=1"
+        },
+        "219193290": {
+            "Name": "Иван Ляхов",
+            "link": "https://vk.com/219193290",
+            "Photo": "https://sun1-98.userapi.com/s/v1/ig2/qr_UpQJm6mQSDRB_wpXpfnpyKMO-6eHmKFJoqFXKJKA4X8TeI2C6p91iLbgsnoId6Fr9wZZ02RbWUzyTl-dQHbnW.jpg?size=400x400&quality=95&crop=146,14,404,404&ava=1"
+        },
+        "219551442": {
+            "Name": "Денис Нахтигаль",
+            "link": "https://vk.com/219551442",
+            "Photo": "https://sun1-17.userapi.com/s/v1/ig2/UwbUrFPELiKtfRwC6M88HsdycAgFIWkxIgMolEHiqqass7uVULimReVb5Zph5Y3BvODSCrS9fYsWGIDFdhZv6mBJ.jpg?size=400x400&quality=95&crop=3,0,1436,1436&ava=1"
+        },
+        "221056896": {
+            "Name": "Витя Семячков",
+            "link": "https://vk.com/221056896",
+            "Photo": "https://sun1-95.userapi.com/s/v1/ig2/0tlbfO0isuFtFEBQxNgeBcmToYvf9UrcLyxNIjTZubtKDzbfD3hGWSbi0FxC1OU-M2RF9SZafP4waz8hJuQh4bVO.jpg?size=400x400&quality=95&crop=195,285,781,781&ava=1"
+        },
+        "222989084": {
+            "Name": "Андрей Минаев",
+            "link": "https://vk.com/222989084",
+            "Photo": "https://sun1-19.userapi.com/s/v1/ig2/3e6xutbrCBGM9WUM0pYk7gYFX5z9ncDfIFhML0gHIFEZYevbKjTucyBQADqLOk32NQpRZwNj5MuNUEiFtlbJXXWS.jpg?size=400x400&quality=95&crop=100,23,621,621&ava=1"
+        },
+        "223136741": {
+            "Name": "Тимофей Рахманов",
+            "link": "https://vk.com/223136741",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/ALrL4OMwLCYM7QHLUMFGFdI3prOzpmh68H5B-5p3umcFZk5dixzHeXTppS8mvN1fRKoq6LfcqO8KeB8vz6vFKD_4.jpg?size=310x310&quality=95&crop=96,147,310,310&ava=1"
+        },
+        "225409092": {
+            "Name": "Азат Шарафетдинов",
+            "link": "https://vk.com/225409092",
+            "Photo": "https://sun1-47.userapi.com/s/v1/ig1/rqdTh5uifXhb0vjxSAhSGSIRZ2k9JS1Z5j0-IuIHHRCoEkX7dwN5Utjf6Hmu87LW9FwggPBP.jpg?size=400x400&quality=96&crop=2,0,1617,1617&ava=1"
+        },
+        "225822844": {
+            "Name": "Илья Щедрин",
+            "link": "https://vk.com/225822844",
+            "Photo": "https://sun1-55.userapi.com/s/v1/if1/Wvz1pMuS0UBYFC6j3G5jrcgCKcJf0Bl3VfkENe4FQeuKkQNgWlYYUAKY-g88lwLKPm6N8n3o.jpg?size=400x400&quality=96&crop=0,0,565,565&ava=1"
+        },
+        "227004008": {
+            "Name": "Никита Абих",
+            "link": "https://vk.com/227004008",
+            "Photo": "https://sun1-89.userapi.com/s/v1/ig2/Ib1BI6auCfHHJMPPQ4uBPiEoYs1VMyyWgG3DUE_X7Ja_ehBygFgqLwxmfVnipMg3OWSqUib9bxwZd6XdxeUbvB0r.jpg?size=400x400&quality=95&crop=344,629,1349,1349&ava=1"
+        },
+        "227047768": {
+            "Name": "Дима Сорокин",
+            "link": "https://vk.com/227047768",
+            "Photo": "https://sun1-54.userapi.com/s/v1/ig2/reyr8LyhecZcpInxhI3P1aVc4TpStgPjGy9dJhac2CE6AeHN7SEBzfJTg7pO0qHAqY3Pzi86baVwo5bffwdWQuaL.jpg?size=400x400&quality=95&crop=783,0,1535,1535&ava=1"
+        },
+        "227414649": {
+            "Name": "Гоша Болтик",
+            "link": "https://vk.com/227414649",
+            "Photo": "https://sun1-97.userapi.com/s/v1/ig1/87Mlj8N_gpozWaYkq50_AWZGcIn_PfFk4_vZSb3hrXtziv8Fzr3e3bCmc8z4LhVr2hDwHxSG.jpg?size=400x400&quality=96&crop=0,0,537,537&ava=1"
+        },
+        "227436751": {
+            "Name": "Simon Maroon",
+            "link": "https://vk.com/227436751",
+            "Photo": "https://sun1-99.userapi.com/s/v1/ig2/HJibQhyxBW9c_oI_kVQRXNBR97Hi0GHB3bEAYDaGRyy0tIE05qz1X33lx8b3FoXmW4iZ4wvih8PTViPnkdbnH-pN.jpg?size=400x400&quality=96&crop=141,510,448,448&ava=1"
+        },
+        "227927457": {
+            "Name": "Никита Кругляк",
+            "link": "https://vk.com/227927457",
+            "Photo": "https://sun1-98.userapi.com/s/v1/ig2/evEN6KD3gjJu9CUVkVxUhZc3bpDmzz4mhcKoZvLm-OTwtt4WAo6hPq27TpW5lWFO8X3-CxroUD1KoG2Sni68VJ7l.jpg?size=400x400&quality=95&crop=2,1,745,745&ava=1"
+        },
+        "230841732": {
+            "Name": "Макар Тихонов",
+            "link": "https://vk.com/230841732",
+            "Photo": "https://sun1-19.userapi.com/s/v1/ig2/QxKky01e6ld6jqlXMkY-fPOX7CI0KoWGhjdyyoVHvjCTTiGRIr6zhfvzLAAqBnXAGziXk-An7iYdwS4YC_mULbIE.jpg?size=400x400&quality=95&crop=129,87,493,493&ava=1"
+        },
+        "233076663": {
+            "Name": "Światosław Kulte",
+            "link": "https://vk.com/233076663",
+            "Photo": "https://sun1-17.userapi.com/s/v1/ig2/_s-qmPjoTK67boU-I0qOoVSGi0NwXeMzR64JNEXh33A6HuJTh757plIj7QjfcAzANVOq0-Qru4_bVxIICguh7Dcv.jpg?size=400x400&quality=95&crop=121,0,706,706&ava=1"
+        },
+        "237242587": {
+            "Name": "Василий Курганов",
+            "link": "https://vk.com/237242587",
+            "Photo": "https://sun1-94.userapi.com/s/v1/ig2/DiV3IY_YF4CvCAoxZBBNdYvuSewRZLpwrVimFakLw5cBmzbWQtQ9SJljGrLfZlFLtUsIMX4YzH_s0RY_tLrsXRkR.jpg?size=400x400&quality=95&crop=264,117,510,510&ava=1"
+        },
+        "238225010": {
+            "Name": "Владислав Макров",
+            "link": "https://vk.com/238225010",
+            "Photo": "https://sun1-94.userapi.com/s/v1/ig2/3UMXOOInniq7hrpdEitZenHkgd2qsridKQrshonNf_4xTdYYtzl2oMvSQUC6uDQLWRFck-26Pv6A4kXhnmF0UkUj.jpg?size=400x400&quality=95&crop=1300,124,1053,1053&ava=1"
+        },
+        "242439237": {
+            "Name": "Нуржан Жанашев",
+            "link": "https://vk.com/242439237",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/xDsYsXsuCiDIbxaCGCCa1JiUkyXuSQBufT3Ij4GvUZfavM27eq25t0veCfnFHoLNc_L5PnUX0xY4Yhl6k7YdQGOn.jpg?size=400x400&quality=95&crop=444,144,758,758&ava=1"
+        },
+        "242696176": {
+            "Name": "Степан Зверев",
+            "link": "https://vk.com/242696176",
+            "Photo": "https://sun1-85.userapi.com/s/v1/ig2/qUTB5AjQ2JZztEdJq0EdxiS-Uh_FwvpC9bh__nrt5FD4dNg1K30ZNtXurNMnJkZnZjU2swHqcZGYzMt9KaM2e4Ls.jpg?size=400x400&quality=95&crop=0,322,1916,1916&ava=1"
+        },
+        "243831765": {
+            "Name": "Роман Бородин",
+            "link": "https://vk.com/243831765",
+            "Photo": "https://sun1-23.userapi.com/s/v1/ig2/V15ik3w8tQ51HkO0ld7Xky7tstMtgB2axUn9owKIeBejoax0yJiUR85z07pzEATgpKEfr1U58r371BYJVfw_WCvG.jpg?size=400x400&quality=96&crop=82,158,415,415&ava=1"
+        },
+        "253099386": {
+            "Name": "Кирилл Уваров",
+            "link": "https://vk.com/253099386",
+            "Photo": "https://sun1-26.userapi.com/s/v1/ig2/BtegoYk2ZNcEaQtYBAuU86KWMobzkAGPn4Rr3mn6Qz_L1cX-MBgIBBhjIHkc574PmyifRTN2HYx8ebtIfinSL6sb.jpg?size=400x400&quality=96&crop=173,84,1160,1160&ava=1"
+        },
+        "259214301": {
+            "Name": "Роман Николашин",
+            "link": "https://vk.com/259214301",
+            "Photo": "https://sun1-93.userapi.com/s/v1/ig2/IFF6niMj0YccmJzxjsb2ebZKm7s9L8iEvIyr14uvVC-8GfEx6yDfNVLE6UG8DTjy05lltf5tMSsaFNvTPCVbOBZj.jpg?size=400x400&quality=96&crop=0,54,634,634&ava=1"
+        },
+        "260770478": {
+            "Name": "Игорь Уткин",
+            "link": "https://vk.com/260770478",
+            "Photo": "https://sun1-87.userapi.com/s/v1/ig2/NbQSjMWBvEC6a_rwpdGXNxmPGGxNHBXvDy2GO4C3k0Wo5V_XBQ8AVNfFm2WhtBxwwyqV5ECGVuIzoKy6vKkT5erH.jpg?size=400x400&quality=95&crop=7,313,591,591&ava=1"
+        },
+        "265701519": {
+            "Name": "Мансур Башкирцев",
+            "link": "https://vk.com/265701519",
+            "Photo": "https://sun1-29.userapi.com/s/v1/ig2/qZQsMMx2DGJT3TZPVeiSyntTPWjNkMAlVX0xtqg_gvJ_VhupNXLZ2dCIFrGiemLxs-vkdz49iVRJNI5A7vzOz_Ak.jpg?size=400x400&quality=95&crop=111,213,516,516&ava=1"
+        },
+        "266360493": {
+            "Name": "Роман Юсеков",
+            "link": "https://vk.com/266360493",
+            "Photo": "https://sun1-91.userapi.com/s/v1/ig2/wKqd4GH-q1tXNFYflaLL0B-dwbTqvoGnLtjo6JFEEBsm4B98qUgXSCP2E3ThPqClHG6EnloPuoo2j1BybpPRPdPZ.jpg?size=400x400&quality=95&crop=0,146,620,620&ava=1"
+        },
+        "270514105": {
+            "Name": "Алексей Каин",
+            "link": "https://vk.com/270514105",
+            "Photo": "https://sun1-94.userapi.com/s/v1/ig2/Gf_PPA93l0l0mcudLhizwA_MN8lwr632_e6PFnlLXKE75ZMNUTXwLMaxexAWTbTE_hx_XveVBS83nmskc3G2qoSa.jpg?size=400x400&quality=95&crop=15,69,741,741&ava=1"
+        },
+        "270771350": {
+            "Name": "Иван Ключников",
+            "link": "https://vk.com/270771350",
+            "Photo": "https://sun1-99.userapi.com/s/v1/ig2/70oh_vALIbwdm4ZdHCUoy2KJYApSyM95ZRaH8eRne5lZtY1KNRKD9kNnAdVNycqfThH4dKWW5w13XDfHIXYMdOjr.jpg?size=400x400&quality=95&crop=306,373,1322,1322&ava=1"
+        },
+        "271556735": {
+            "Name": "Артём Анисимов",
+            "link": "https://vk.com/271556735",
+            "Photo": "https://sun1-83.userapi.com/s/v1/ig2/3YQLeHnYfW_jkHXFOt_GNMbDWMHXKFopyloUdET7C00jr81T4wsaM5_aEk-4yzp3NYV78j-zEDCqZod2lb9riVno.jpg?size=400x400&quality=95&crop=208,212,1348,1348&ava=1"
+        },
+        "273904862": {
+            "Name": "Николай Залетов",
+            "link": "https://vk.com/273904862",
+            "Photo": "https://sun1-85.userapi.com/s/v1/ig2/K0e54ynpSK4oA3S8ISm5JIJHqNInVB_Y_d0FF8fhdgI26xa9hkY3KjhXCqNIilCw_gy-HbvnxyaS60Lr9x9GrD4N.jpg?size=400x400&quality=95&crop=233,0,1767,1767&ava=1"
+        },
+        "275219365": {
+            "Name": "Константин Волошко",
+            "link": "https://vk.com/275219365",
+            "Photo": "https://sun1-15.userapi.com/s/v1/ig2/fqlrwHcU3AYXdrvCf56TUwSITUT8pNqb8jCYsa8YdeJB2AYSJ3h7FF7FpZv1v9RkwmdGngX0mB0wldpsMWG6ff0Y.jpg?size=400x400&quality=95&crop=239,385,1113,1113&ava=1"
+        },
+        "286141589": {
+            "Name": "Дмитрий Панин",
+            "link": "https://vk.com/286141589",
+            "Photo": "https://sun1-26.userapi.com/s/v1/ig2/7pnOsjJU3NiaXIzYuNxVOJtUnggQqo2B7_33Vk3m_QGPn8Yq13hO03zbY7zm8wijIgrmdFwSRq9CcbYR1LNRTsh2.jpg?size=297x297&quality=95&crop=272,154,297,297&ava=1"
+        },
+        "288430663": {
+            "Name": "Данил Вотинцев",
+            "link": "https://vk.com/288430663",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/OghNsnap0Ks4EYBVeaugBlc3jzQlCBRLP4bA1vRnvQAbP72ef8SWERgyZTmFlzIm5aZExYuQH7OLPzKZejcVX-2M.jpg?size=400x400&quality=95&crop=32,1,670,670&ava=1"
+        },
+        "291572028": {
+            "Name": "Александр Ушаков",
+            "link": "https://vk.com/291572028",
+            "Photo": "https://sun1-28.userapi.com/McdpcTNn6Mp4mz_rP2cHD_9_ewdfWU4Va-T42g/qwMS8N3slgU.png"
+        },
+        "292332840": {
+            "Name": "Елизавета Кожухарь-Панкова",
+            "link": "https://vk.com/292332840",
+            "Photo": "https://sun1-85.userapi.com/s/v1/ig2/Kve2kPe5vCw6aEXL0kaZdc5kTPftdMVq6PRfaJJCgD_q0hPc3ldshH6qNfrHhKwuMSRc0wHbuSfk44z5gyDY4XjC.jpg?size=400x400&quality=95&crop=200,309,400,400&ava=1"
+        },
+        "292752090": {
+            "Name": "Сергей Горбатов",
+            "link": "https://vk.com/292752090",
+            "Photo": "https://sun1-26.userapi.com/s/v1/ig2/_UUkwUK7gG2Mce1Lx6oyL9XLMO8xwSk5C2PxHkETQ0L4wQ1-iYroxAamONRDkWqcOQQOnCAaMXd-iSfQXb_ZjTeh.jpg?size=400x400&quality=95&crop=0,0,849,849&ava=1"
+        },
+        "295886141": {
+            "Name": "Lakres Schneider",
+            "link": "https://vk.com/295886141",
+            "Photo": "https://sun1-17.userapi.com/s/v1/ig2/ZE4R_JLqTGTAz2ZGi7b4ciXGpayNY1CC2n7FdXBytpgL8wIfzjjWIsVAn5Z5KUc_7440WMKNI7c20EoKYizE0uJ4.jpg?size=400x400&quality=96&crop=255,252,1423,1423&ava=1"
+        },
+        "301191153": {
+            "Name": "Дмитрий Гудков",
+            "link": "https://vk.com/301191153",
+            "Photo": "https://sun1-25.userapi.com/s/v1/ig2/2BQXQFv6m-RVsewa4giZ0NZYowAc9IPe1-w4C8SSD09L7gEF9ceTeL_spdU8jTAj5gkMhQbnjo76vNoLRUmuf_EB.jpg?size=400x400&quality=95&crop=128,32,782,782&ava=1"
+        },
+        "301670723": {
+            "Name": "Иван Гудков",
+            "link": "https://vk.com/301670723",
+            "Photo": "https://sun1-83.userapi.com/s/v1/if1/xC1_VEiW7ddNFsrvejLDQjCryfhMskOC5wUQ1dt3BUejTUvJFYS5xVy_oiSYHYGetiQtiSY2.jpg?size=400x400&quality=96&crop=80,80,641,641&ava=1"
+        },
+        "313980720": {
+            "Name": "Владислав Картизолла",
+            "link": "https://vk.com/313980720",
+            "Photo": "https://sun1-27.userapi.com/s/v1/ig2/L7aBokUwPH1RkRQb-BtFF0rCoWIpFBMsc2Hh10OfK73hixsPdw3gdiadb_Vdaici1QAYDR7_4UVjF8BQNf__7KGg.jpg?size=400x400&quality=95&crop=102,0,646,646&ava=1"
+        },
+        "320489120": {
+            "Name": "Ярослав Француз",
+            "link": "https://vk.com/320489120",
+            "Photo": "https://sun1-84.userapi.com/s/v1/ig2/hEQx-e4FJMrj6rshvGhvwSb1diJ46nNT4CSxUUe0-La7Qz8VVcfyuR7TKA25T37bJXUCOYMdBC9Jzy1U9qupfiL6.jpg?size=400x400&quality=96&crop=411,215,510,510&ava=1"
+        },
+        "321150664": {
+            "Name": "Алексей Алабай",
+            "link": "https://vk.com/321150664",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/ScPuwj0BeEKEDblPoo5hRekxGhE6tXiV510d8xcjJ7k-05AG4ymM5ro31-GS3lwYcAZTA9i82oUrlVyTCwdp0u5b.jpg?size=400x400&quality=96&crop=63,33,484,484&ava=1"
+        },
+        "323706769": {
+            "Name": "Андрей Ким",
+            "link": "https://vk.com/323706769",
+            "Photo": "https://sun1-19.userapi.com/s/v1/ig2/K7VM04f88IlnYEMCV--piJIUKPlcQDNbUITUMnW5z9QzlQ_Npk2xuE-waz7uZtb4pkQhKZLf3DtrjF0hmg_ovGNq.jpg?size=400x400&quality=96&crop=0,315,784,784&ava=1"
+        },
+        "327779734": {
+            "Name": "Амир Шаехов",
+            "link": "https://vk.com/327779734",
+            "Photo": "https://sun1-29.userapi.com/s/v1/ig2/HvCOS2EVoETc6gXTx2kYqQ7epo5u4ye-2WmL1r89Qk2yOJK6wKlfO6PbPzZeTp_AF7rZRL-DiDt8TYZE_t9JicJn.jpg?size=400x400&quality=95&crop=242,93,1257,1257&ava=1"
+        },
+        "328402047": {
+            "Name": "Иван Мельников",
+            "link": "https://vk.com/328402047",
+            "Photo": "https://sun1-26.userapi.com/s/v1/ig2/x3IM-KnlsFk-0oPVbDrkDiZAknjiKu965J602XRJq5u0-q8ZXF1OhMUUtaP4gC4Tetc35lH_1CbkFTDPdNoxSDL2.jpg?size=400x400&quality=95&crop=129,24,456,456&ava=1"
+        },
+        "328525935": {
+            "Name": "Михаил Шахов",
+            "link": "https://vk.com/328525935",
+            "Photo": "https://sun1-54.userapi.com/s/v1/ig2/UnPueuD4nHATNeTdFLFbPtHnOK0pQPyx8In33g3xUOPBRpmWivIPB_UnTlL7UUoAP5vQilpX2D0ECbVKx16lu1P0.jpg?size=400x400&quality=96&crop=266,2,441,441&ava=1"
+        },
+        "328882629": {
+            "Name": "Егор Лялин",
+            "link": "https://vk.com/328882629",
+            "Photo": "https://sun1-88.userapi.com/s/v1/ig2/wF3gi1FwJ4ivTVMMk-nH7cuHg5FuVq4Qg8Mw-lLwEz5liZcEUJA6JyOA2_ERbV773TIcmRPIqfqh6T8vM4xfzsLb.jpg?size=270x270&quality=95&crop=267,221,270,270&ava=1"
+        },
+        "331427881": {
+            "Name": "Дмитрий Гипсинов",
+            "link": "https://vk.com/331427881",
+            "Photo": "https://sun1-55.userapi.com/s/v1/ig2/Ik3kbJROkGNlGPHvfzj_CUpFe9pC35X5f6TBYi2-UVPrmQbmooBo30DgFPpI51zDoX9-SNDqUBlkhmTRV7eTgbio.jpg?size=399x399&quality=95&crop=222,24,399,399&ava=1"
+        },
+        "335372634": {
+            "Name": "Игорь Венгер",
+            "link": "https://vk.com/335372634",
+            "Photo": "https://sun1-55.userapi.com/s/v1/ig2/cNQs4gJUcwbP65MBO_2YJ2ilXFspRp7zEY3iJpFZ7Y64n9A5EiZMMJjTwlEGtNCXj1nMEdilUH2yAx7mMyEILSKu.jpg?size=400x400&quality=95&crop=46,0,500,500&ava=1"
+        },
+        "336567000": {
+            "Name": "Илья Сериков",
+            "link": "https://vk.com/336567000",
+            "Photo": "https://sun1-89.userapi.com/s/v1/ig2/H2a4pyzeglR33gEu6S_N9BhM0GsntY_CYcfNLlnlegmYd50P2X2p45lES1iIS70TY2aYUb_26Fr3SzUtvPfOtEz5.jpg?size=400x400&quality=95&crop=106,0,421,421&ava=1"
+        },
+        "336910634": {
+            "Name": "Григорий Колосов",
+            "link": "https://vk.com/336910634",
+            "Photo": "https://sun1-84.userapi.com/s/v1/ig2/lH7qR2Tbyd2CgZ9y04d0D9883IjeauAra7t5QprmBW_jf3VccSxBRn2egVLrsNkohCupGFB8w5vAMTJGL_1pl04i.jpg?size=400x400&quality=95&crop=157,0,1347,1347&ava=1"
+        },
+        "352871770": {
+            "Name": "Эмиль Шамшадинов",
+            "link": "https://vk.com/352871770",
+            "Photo": "https://sun1-93.userapi.com/s/v1/ig2/1U-ZScWXgdZqp1asNmDGbMEyzbMtA7hylDuXPt8GCiIPAFLqu1udCQT3PIxAolIpVshhiEKETiQx7Fxk23ZrHTvS.jpg?size=400x400&quality=95&crop=504,12,864,864&ava=1"
+        },
+        "354489123": {
+            "Name": "Егор Лукьянов",
+            "link": "https://vk.com/354489123",
+            "Photo": "https://sun1-17.userapi.com/s/v1/ig2/D3Bu6Pd-RKmqrS1Ht4VI7ecUnBc_VXlIS4kB8XdZxGEJmtT4cbotRZSMsoyQBNiIvcp-RbBQrkzkYI1KKEA3eC9D.jpg?size=400x400&quality=96&crop=0,426,1620,1620&ava=1"
+        },
+        "354651398": {
+            "Name": "Вадим Бояршинов",
+            "link": "https://vk.com/354651398",
+            "Photo": "https://vk.com/images/camera_200.png"
+        },
+        "357010036": {
+            "Name": "Валерия Немцова",
+            "link": "https://vk.com/357010036",
+            "Photo": "https://sun1-57.userapi.com/s/v1/ig2/EA-pzYxcqc1q3NTr7klsoRBK34oNrDuGro6ULxaeZBniN43eSOoqpsd9iiM8ZC6F1s4pjD1v08GskCk1u2yRGOuV.jpg?size=400x400&quality=95&crop=5,114,1906,1906&ava=1"
+        },
+        "361135293": {
+            "Name": "Макс Радов",
+            "link": "https://vk.com/361135293",
+            "Photo": "https://sun1-95.userapi.com/s/v1/ig2/eFriEb2WoBiYbN-SqYYN4YCzp4uJcds6ZctyH5RYJdyoNWAiKUwwIKtQiy2dp3XitMYcN6uzsa2d8X7017Efwu7O.jpg?size=400x400&quality=95&crop=235,11,470,470&ava=1"
+        },
+        "361666246": {
+            "Name": "Владислав Челядин",
+            "link": "https://vk.com/361666246",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/L1QeiD-HLKOf6LD8zZLrgtr7EQtaeLt-meu68PZrRJZL1e71nUWRLhyy3G-k83Yt9kCqSx0eqaFvxpSsqZc6bUDW.jpg?size=400x400&quality=96&crop=119,5,796,796&ava=1"
+        },
+        "363502297": {
+            "Name": "Петр Смирнов",
+            "link": "https://vk.com/363502297",
+            "Photo": "https://sun1-20.userapi.com/s/v1/ig2/LucysKAsBf-D-AUZhbPQl4hpq86Y_Y1n9bAgcVcJcHpg5md2yXZEikBnkIwp4NIxLl2ck7lpV0e-hUM3FiEZiYDy.jpg?size=400x400&quality=95&crop=0,7,612,612&ava=1"
+        },
+        "365589493": {
+            "Name": "Лопатин Герман",
+            "link": "https://vk.com/365589493",
+            "Photo": "https://sun1-90.userapi.com/s/v1/ig2/PWgv1zqR-eQ4O2SYE-AMN-uF-1ERiXxWUxl-jx_jK7P4TrW5Tn79jgXpsABef-4BVmHVXeZELYl012N41Mn8qkAA.jpg?size=315x315&quality=95&crop=224,157,315,315&ava=1"
+        },
+        "367161436": {
+            "Name": "Марк Таранов",
+            "link": "https://vk.com/367161436",
+            "Photo": "https://sun1-92.userapi.com/s/v1/ig2/_iIqIYlnQyvyCX6-tHndRGK-sVoZRD7mfGliIUpcaf0FjdV7XF4Ql3Ds6KTqBTI7zM7lIP0i27mMaAdwgVpIGmG2.jpg?size=400x400&quality=95&crop=0,0,499,499&ava=1"
+        },
+        "369998312": {
+            "Name": "Христос Багулин",
+            "link": "https://vk.com/369998312",
+            "Photo": "https://sun1-29.userapi.com/s/v1/ig2/UlDEVP_tljVV3LuRDvzLMtgBZGyEqNcdo1S_u030GMu3niAmExop8ZLdfwRCpxevOdKAaxLEXe4abYXP5KCWLbCL.jpg?size=400x400&quality=96&crop=0,115,792,792&ava=1"
+        },
+        "370954443": {
+            "Name": "Том Сойер",
+            "link": "https://vk.com/370954443",
+            "Photo": "https://sun1-55.userapi.com/s/v1/ig2/ILkQmcL9OdBXGdaBfLLG7EbIeSVL7X7iA7rqqS3Qapv2peZazMrwp4UWRqf9Z2JT1vSYJjPXW_iVpXunGjRjccrw.jpg?size=400x400&quality=95&crop=207,12,682,682&ava=1"
+        },
+        "370993168": {
+            "Name": "Никита Стеняев",
+            "link": "https://vk.com/370993168",
+            "Photo": "https://sun1-24.userapi.com/s/v1/ig2/4XVau5U0-7lBU0_Zh8oPFLAixXFcD5MtA96hDd617o8LuIpuHN3pTbt_5CsXxF7KkyxkPMZshAZ_zZaQY8pubbsk.jpg?size=400x400&quality=96&crop=48,0,440,440&ava=1"
+        },
+        "371196339": {
+            "Name": "День Некрасова",
+            "link": "https://vk.com/371196339",
+            "Photo": "https://sun1-98.userapi.com/s/v1/ig1/xiuG-STlMM5MXUCoFv3nr-1Ajv2haTNIxLrbWZv9fecgeZdX5QZczQzl4I6rb4MMULexgjj3.jpg?size=400x400&quality=96&crop=160,9,734,734&ava=1"
+        },
+        "374508753": {
+            "Name": "Егор Щербаков",
+            "link": "https://vk.com/374508753",
+            "Photo": "https://sun1-99.userapi.com/s/v1/ig2/cRJqCHipwk49ZKWR5EJGeTc-X151oLLfgsRupTlAadLwukzv9rZqE6IJMrPXkTcMEDjzPcaQ03CMdLB6rFKgXGC4.jpg?size=293x293&quality=96&crop=98,156,293,293&ava=1"
+        },
+        "375010317": {
+            "Name": "Андрей Лысенков",
+            "link": "https://vk.com/375010317",
+            "Photo": "https://sun1-19.userapi.com/s/v1/ig2/CmpQCG5F6yTV7D_D-iOBIbyA6qE5Op6J4R6J1UVcwRJ88-qqGphtjsL8Co30oAVPqzyEcdH9XV-Xfh6eGBxOsXtO.jpg?size=400x400&quality=95&crop=80,80,640,640&ava=1"
+        },
+        "376564269": {
+            "Name": "Анатолий Абрамов",
+            "link": "https://vk.com/376564269",
+            "Photo": "https://sun1-88.userapi.com/s/v1/ig2/VdKY6TigIUKMAk2kCYqYRce35RIXIEPGw72k4lWd0dh2wrFS2tMfIiISNjncmVOojmaBKbrx56M32OTwoBSVZ_x_.jpg?size=400x400&quality=95&crop=343,591,1089,1089&ava=1"
+        },
+        "376606694": {
+            "Name": "Олег Назаров",
+            "link": "https://vk.com/376606694",
+            "Photo": "https://vk.com/images/camera_200.png"
+        },
+        "383187575": {
+            "Name": "Дмитрий Ряхин",
+            "link": "https://vk.com/383187575",
+            "Photo": "https://sun1-87.userapi.com/s/v1/if2/zJH9mehKKTcauBpHXF74iWDtwNApnY8_N77KfrlBwavzs6lz3-DH7gBZlHynrjKLAAdiT9Ctdl9mJbcvYemYyF4u.jpg?size=400x400&quality=96&crop=680,224,1232,1232&ava=1"
+        },
+        "384615246": {
+            "Name": "Евгений Никитин",
+            "link": "https://vk.com/384615246",
+            "Photo": "https://sun1-97.userapi.com/s/v1/ig2/6qjUjMJUGz2GwActhegHzDfir47_68vNVueYCRzHArKfFIvKJwDSH2JU4y802unI6I2TcbRANWMUd65jNK_cOwjR.jpg?size=400x400&quality=95&crop=200,425,523,523&ava=1"
+        },
+        "385004713": {
+            "Name": "Константин Мельников",
+            "link": "https://vk.com/385004713",
+            "Photo": "https://sun1-15.userapi.com/s/v1/ig2/-3odAbpOp3Fh2O4LAhNya37QuUEy3NYt8xFJcWrn5gwd2WK4SJG2ubjgqgPr4u4LgnA8Rrl8crDScFvNjIZA2lHB.jpg?size=400x400&quality=95&crop=528,124,857,857&ava=1"
+        },
+        "387906472": {
+            "Name": "Рава Солевой",
+            "link": "https://vk.com/387906472",
+            "Photo": "https://sun1-88.userapi.com/s/v1/ig2/tckGSyPHr7ff1nVKIrhrTPlEfWr1o-Hp4LPxkhdq0WrwROxeGBUHOgpl9xyrFsxE0TTHRHWBcPel3dIGOOqKz8PD.jpg?size=400x400&quality=95&crop=61,17,576,576&ava=1"
+        },
+        "388292681": {
+            "Name": "Георгий Дробышев",
+            "link": "https://vk.com/388292681",
+            "Photo": "https://sun1-19.userapi.com/s/v1/ig1/61yQllqi2CQx3lL_iA07J31HLcN_qOftuMJyISO-OQDQtMc79zb5RO4ZZ7IOxzqTrYm0Y2AB.jpg?size=366x366&quality=96&crop=137,0,366,366&ava=1"
+        },
+        "396362803": {
+            "Name": "Абдурахман Кадыров",
+            "link": "https://vk.com/396362803",
+            "Photo": "https://sun1-56.userapi.com/s/v1/if1/zRUI9cgHWIkwzr5TZbRsH-8b1QcYGj5sR0JmJDC8ctn1oCIHxHryog2pvivQfNm0fAE_r2ep.jpg?size=400x400&quality=96&crop=180,180,640,640&ava=1"
+        },
+        "415331597": {
+            "Name": "Михаил Бабкин",
+            "link": "https://vk.com/415331597",
+            "Photo": "https://sun1-25.userapi.com/s/v1/ig2/T-RxGG2PbWTs1Ckj6lTwQ-8Y48psaRJrIoZ4bV4ehA-4ArkiYqN_DYYQu9uozpGE_-YHth5dcpvzAEfzn2XISd6Y.jpg?size=310x310&quality=95&crop=155,29,310,310&ava=1"
+        },
+        "422102977": {
+            "Name": "Артём Захаркин",
+            "link": "https://vk.com/422102977",
+            "Photo": "https://sun1-88.userapi.com/s/v1/ig2/5uCFthhmrBJ93YcOlTQK5bWPZRUC3s-VgaNlqtY9B_a_y4Im0FwOtE5jy3cQfoFnSVSRlJhrFq5zSQjwyebh32WW.jpg?size=400x400&quality=95&crop=1,1,658,658&ava=1"
+        },
+        "424685510": {
+            "Name": "Лев Филатов",
+            "link": "https://vk.com/424685510",
+            "Photo": "https://sun1-55.userapi.com/s/v1/ig2/nr9EgEBQ_FxvQKR-2UEk5sH8RXkDnvbt0BXr0AKC4-8IIYQMYpayPK5rPGPTpUE43L2_RiJANT5krSbeGOZxQ1Et.jpg?size=400x400&quality=95&crop=581,251,886,886&ava=1"
+        },
+        "426946124": {
+            "Name": "Марат Алибеков",
+            "link": "https://vk.com/426946124",
+            "Photo": "https://sun1-23.userapi.com/s/v1/ig2/HO_OUbM57gvMefAFiCCR5UMRKmOKoAgxcAaHMglLRlfHNPH0wD8_qbx_dbFtaLdkfCi2jLyTZfFkWSWr3DRtA88h.jpg?size=400x400&quality=96&crop=718,360,572,572&ava=1"
+        },
+        "434499493": {
+            "Name": "Микрочелик Дима",
+            "link": "https://vk.com/434499493",
+            "Photo": "https://sun1-91.userapi.com/s/v1/ig2/2NFLH53KzJHYmcew1VYEmdRo0uZpuhCDIrsuhC3ILLMu_xXva0HWpeZAQUCPTM-ql95cui9h3LaYUhIotN5bWXBw.jpg?size=400x400&quality=95&crop=1,0,408,408&ava=1"
+        },
+        "435023991": {
+            "Name": "Alexander Sherementyev",
+            "link": "https://vk.com/435023991",
+            "Photo": "https://sun1-93.userapi.com/s/v1/ig2/1TOu23TCcA6Q4aV6lvj2QV233FWSdSvzOxj8VWZp1kiRM7b8i_6oEF_tCijdidVOR9NeJZjccggYA4BtZwT45djU.jpg?size=400x400&quality=95&crop=0,0,564,564&ava=1"
+        },
+        "438372263": {
+            "Name": "Денис Квик",
+            "link": "https://vk.com/438372263",
+            "Photo": "https://sun1-55.userapi.com/s/v1/if1/qECFQxEr2Qw39gt23GmlkvJzzWAIpYpuZVau-fbWCuAn87c5ZUgmDMJMNuuSBoit-QrUgSgc.jpg?size=400x400&quality=96&crop=262,236,548,548&ava=1"
+        },
+        "441241483": {
+            "Name": "Фёдор Чубарцев-Шевердин",
+            "link": "https://vk.com/441241483",
+            "Photo": "https://sun1-27.userapi.com/s/v1/ig2/8p2LzxHqRIY6HGMO7q_XpAbDwqHTWxNUGk8L6TIZflAySDaJn6M6GYW_RS39zbzBPEB1O2lhiIgeZsRHGotbWho9.jpg?size=243x243&quality=96&crop=312,275,243,243&ava=1"
+        },
+        "442588590": {
+            "Name": "Юра Зимов",
+            "link": "https://vk.com/442588590",
+            "Photo": "https://sun1-98.userapi.com/s/v1/ig2/yMwaUhXwQj5IHR7hanGparGr7wCJ806FsBtvyXmcJqq8adFPKeqOMJyig6UNbYo6kPa-wgaIWkuWssW1OBirnhoB.jpg?size=400x400&quality=95&crop=0,51,476,476&ava=1"
+        },
+        "445093108": {
+            "Name": "Иван Михалёв",
+            "link": "https://vk.com/445093108",
+            "Photo": "https://sun1-21.userapi.com/s/v1/ig2/6gygtGs1lDtNeZfD_a7aEDYk7YOwSPNlVqNJOZmbi-SzPyzLLa9vjU6-M0zvRbfc6Zy-1KtUeNk-7s-iIkOuMAiS.jpg?size=400x400&quality=95&crop=0,240,1440,1440&ava=1"
+        },
+        "447469975": {
+            "Name": "Иван Корнеплод",
+            "link": "https://vk.com/447469975",
+            "Photo": "https://sun1-87.userapi.com/s/v1/ig2/SyjZwKp7JDAtkfSASEsT9ezeVxLMo1Sbovw3xfLWLSXZtdk9fc0grkB13OsG1qhan2hUJM6UCUza6B5GvDawUMTY.jpg?size=367x367&quality=95&crop=0,157,367,367&ava=1"
+        },
+        "452774460": {
+            "Name": "Глеб Хоцевич",
+            "link": "https://vk.com/452774460",
+            "Photo": "https://sun1-13.userapi.com/s/v1/ig2/8nQrdeVIvSwfOq82z5Nd6SQ7dOHawgRSCYX9mma3rQqqPJvdXQuZr-PjVVOLVyrv96ddxstx33dU-QIMCmkbY5m2.jpg?size=400x400&quality=95&crop=406,969,907,907&ava=1"
+        },
+        "453159654": {
+            "Name": "Алексей Филон",
+            "link": "https://vk.com/453159654",
+            "Photo": "https://sun1-87.userapi.com/s/v1/ig2/qNr5xDSwhf0x0qB-lIMKMIQaBikta4cKZkgl8FDz60PBxMaxNHhVZmE2Jy5viZEWXWWNw658hitMa1ZJNAjifXm-.jpg?size=400x400&quality=96&crop=0,182,716,716&ava=1"
+        },
+        "457270427": {
+            "Name": "Мордехай Леви",
+            "link": "https://vk.com/457270427",
+            "Photo": "https://sun1-20.userapi.com/s/v1/ig2/9qZR_YBst4DOmdTo6J0UvTOTDnNQ1Jz-uTEWwRf-NAr-gBXrLmR3DdumYaPX0Bj1_4IyCAMeaGCjUE3rnPCtFT78.jpg?size=400x400&quality=95&crop=137,1,757,757&ava=1"
+        },
+        "457362602": {
+            "Name": "Максим Моисеенков",
+            "link": "https://vk.com/457362602",
+            "Photo": "https://sun1-57.userapi.com/s/v1/ig1/FVUbygX985qeDAXtImT74D7i5PzVqzPVz_vPnO0qaUaM-EuZkZdcVLN13CABJpF-A-8mqDID.jpg?size=394x394&quality=96&crop=405,81,394,394&ava=1"
+        },
+        "468767276": {
+            "Name": "Савелий Васнецов",
+            "link": "https://vk.com/468767276",
+            "Photo": "https://sun1-16.userapi.com/s/v1/ig2/LkYWAaFqr9KFj_Y861a9AxUX1-axh0UvImwzxhWGRsucbkgcDliopKVVNkIp4mt-6Ew0QqeErPNU4F58fa9M48BV.jpg?size=400x400&quality=96&crop=0,0,1024,1024&ava=1"
+        },
+        "469886251": {
+            "Name": "Даня Зерщиков",
+            "link": "https://vk.com/469886251",
+            "Photo": "https://sun1-28.userapi.com/s/v1/ig2/ZcXIgmap7BRCdDVg-41L1vfej7vqbB4EYMraBxtwTbQhYGfB0uy0DWD8GGtJ1y8grDoEn1av0AtkylMsufNFofEY.jpg?size=400x400&quality=95&crop=26,5,1949,1949&ava=1"
+        },
+        "473223754": {
+            "Name": "Иван Болотник",
+            "link": "https://vk.com/473223754",
+            "Photo": "https://sun1-55.userapi.com/s/v1/ig2/6m2BbDgmZFs6Ca3nAZAtVG7K5ZqEq-6KnXZxF5xhxnJ4pBbCG98SLAr7qH0WIRZdNw6mTJN7zj8QE4MqD_QN4Whu.jpg?size=400x400&quality=95&crop=0,247,2129,2129&ava=1"
+        },
+        "473882635": {
+            "Name": "Арсений Филатов",
+            "link": "https://vk.com/473882635",
+            "Photo": "https://sun1-87.userapi.com/s/v1/ig2/LIEygtW_up5XlW3L-M08ffEcf8E_pq5nu95Mf4-FWUjoM-mSqWTXgvEFk9AG8SeIx-NvtFLq1D_sgEyxiK4XzHni.jpg?size=400x400&quality=95&crop=0,122,1920,1920&ava=1"
+        },
+        "476808538": {
+            "Name": "Игорь Левин",
+            "link": "https://vk.com/476808538",
+            "Photo": "https://sun1-83.userapi.com/s/v1/ig2/ztDC_itw-BDpz0KAqWAHlGAI_L3T-q82h3b1-cFRLGx7Tz0tN9Rnp1FVIgtbsNCFMk6yvyGRlmN0SHw1_lcoKbgN.jpg?size=400x400&quality=95&crop=0,110,513,513&ava=1"
+        },
+        "479767041": {
+            "Name": "Сэд Кипр",
+            "link": "https://vk.com/479767041",
+            "Photo": "https://sun1-91.userapi.com/s/v1/ig2/WRpoGzGvE9SaxwyBjz45ooa40bNbuGq2NkSGXUiLfpLETAuBnK_SNuQ85S2Pq6lX9ZI9IsGFPTl86CPqBaBCkC9p.jpg?size=400x400&quality=95&crop=260,0,535,535&ava=1"
+        },
+        "483097387": {
+            "Name": "Гамлет Кутикула",
+            "link": "https://vk.com/483097387",
+            "Photo": "https://sun1-56.userapi.com/s/v1/ig2/D3UXuTYEHKRPsX0L3alux4tUwjtAsvbPvFJsF70_87Jzrqhngo7xSr9UoJixc8fg3_xsA7QEcajeNntwzQhHDVbK.jpg?size=240x240&quality=95&crop=432,977,240,240&ava=1"
+        },
+        "485034714": {
+            "Name": "Илья Клевцов",
+            "link": "https://vk.com/485034714",
+            "Photo": "https://sun1-13.userapi.com/s/v1/ig2/9xu2vRUR3vOmh4RjsoL5tU9GVOqw9emS99hd6BZpWSNzGzcFw5QZVkDtmjfgyI5zbZkIxEAUlUm19zFgTCUVf5N1.jpg?size=400x400&quality=95&crop=128,192,626,626&ava=1"
+        },
+        "487780577": {
+            "Name": "Глебабас Афанасьев",
+            "link": "https://vk.com/487780577",
+            "Photo": "https://sun1-92.userapi.com/s/v1/ig2/FWRIup6xtKPkhTTjrCM_WRf4KcaBKesgh7DDJoWoFb04GRRSbyNAuFQSQahp2s_XTOGesAZFe1rj8YjAFyIWpaE3.jpg?size=400x400&quality=95&crop=494,0,719,719&ava=1"
+        },
+        "490791856": {
+            "Name": "Павел Палымов",
+            "link": "https://vk.com/490791856",
+            "Photo": "https://sun1-28.userapi.com/s/v1/ig2/mDvIBSx1Dxo3dx2x944s9i4ofRShertsKgemR0HsmyPQzi2TyOTFgkcm-_oZ_mwP3zLp6MDUd3Ni6ANHHJPSSAX1.jpg?size=253x253&quality=96&crop=1,1,253,253&ava=1"
+        },
+        "497900576": {
+            "Name": "Арсен Сларк",
+            "link": "https://vk.com/497900576",
+            "Photo": "https://sun1-93.userapi.com/s/v1/ig2/Bk1X4-VP5fMVREqIMHFzWAEOBSXiQR_1iIzKc3ggm9R6riYlMeqCW4idcHu_GbS_QD_f4bW4DecGpnyxr8Sls7uX.jpg?size=400x400&quality=96&crop=133,20,430,430&ava=1"
+        },
+        "498773466": {
+            "Name": "Виктор Ломакин",
+            "link": "https://vk.com/498773466",
+            "Photo": "https://sun1-88.userapi.com/s/v1/ig2/3Ous5djMzmO48PjmHpL5EwGCxVgYoBvqeQ4wg2UPz88ZAYvIvcZHhBZGuu3UgabgBh70hVlRVZ28br1ICtnAjzDn.jpg?size=400x400&quality=95&crop=209,191,638,638&ava=1"
+        },
+        "501408429": {
+            "Name": "Никита Брось",
+            "link": "https://vk.com/501408429",
+            "Photo": "https://sun1-30.userapi.com/s/v1/ig2/AZle7PzLlx5Zdj2sXCmF9pZE_uBV-MCy_qHmx0N00K2dMan0GE2XroUzL6tolPzpVOcO8ZsoLyJxhtm-1CYCf2Q3.jpg?size=352x352&quality=95&crop=213,207,352,352&ava=1"
+        },
+        "506795175": {
+            "Name": "Михаил Уржунцев",
+            "link": "https://vk.com/506795175",
+            "Photo": "https://sun1-13.userapi.com/s/v1/ig2/rIeQkX1SaA1-FNFCHmuTzm0wwqvkBg1kgf35cc8yvU3O6PmNwF9tetuXK9GpHyy6KeT0dDmDvUgmzKngLOuFYpVm.jpg?size=400x400&quality=95&crop=103,179,434,434&ava=1"
+        },
+        "510173317": {
+            "Name": "Я-Это-Я Яскин",
+            "link": "https://vk.com/510173317",
+            "Photo": "https://sun1-89.userapi.com/s/v1/ig2/mhxL5rx1BXTwa0iMrs21sAUivePyTQXCLvlteiIVHQwx8ZZmlWvljnO3g7v0g-yubkOvVfz0lLx7vHPDxMcmoGm-.jpg?size=400x400&quality=95&crop=0,274,718,718&ava=1"
+        },
+        "514200409": {
+            "Name": "Егор Фурсов",
+            "link": "https://vk.com/514200409",
+            "Photo": "https://sun1-30.userapi.com/s/v1/ig2/sGVDsr2K2dq55ejzEABA4p3uTN2iCDcX66nfs1JoknQAQyN5___DJOM04pe_5tOFDCP6Nd79FTZE1PV-F2Sa8C6Z.jpg?size=400x400&quality=95&crop=773,0,804,804&ava=1"
+        },
+        "517602957": {
+            "Name": "Родион Макушинский",
+            "link": "https://vk.com/517602957",
+            "Photo": "https://sun1-83.userapi.com/s/v1/ig2/Zgs6H3g20-F5ojIw28bmsDs54-2MKX0GPR79781RfbGeiX1YuRp1qvRNkwVFKPr33lhi6t79J1iWFM-itBPP92MQ.jpg?size=233x233&quality=96&crop=166,90,233,233&ava=1"
+        },
+        "524964309": {
+            "Name": "Савва Сушков",
+            "link": "https://vk.com/524964309",
+            "Photo": "https://sun1-28.userapi.com/s/v1/ig2/vXw_fKBrDGsPi5VPsRZ0Fb1vAnYKK4O3iq2ZBl29zSvD3J4RtOqzu94tycq6IjpGWW9f2kDHxw1edygaGLXca67V.jpg?size=400x400&quality=95&crop=2,0,697,697&ava=1"
+        },
+        "529335046": {
+            "Name": "Глеб Левак",
+            "link": "https://vk.com/529335046",
+            "Photo": "https://sun1-87.userapi.com/s/v1/ig2/2w-N9vha_6VQLuLD5-2_EkLJi6BtUuTRl7v_XSCqzBbBIZVZw0j5M8wDEhsXniLPc0a954VlUcGSvZwZS6Hpl8js.jpg?size=400x400&quality=95&crop=221,0,403,403&ava=1"
+        },
+        "532831175": {
+            "Name": "Алишер Ержан",
+            "link": "https://vk.com/532831175",
+            "Photo": "https://sun1-91.userapi.com/s/v1/ig2/PFyZHIoHstgXnO6l0gFZ6BMfuagEYqRoEm01mz5JijAKCli375oeY0cJQEovrgb_R6e2vjjMZbVOraz2cDFv3eww.jpg?size=400x400&quality=96&crop=0,4,553,553&ava=1"
+        },
+        "533884643": {
+            "Name": "Данил Бодров",
+            "link": "https://vk.com/533884643",
+            "Photo": "https://sun1-24.userapi.com/s/v1/ig2/r5U5SNtPwrECC3Ecys3hGrYbju-Qrn_bnE1dtNoh5ISl6uY8beRkBnCfsUohlRTiPRdt1GkoHztk4NmKxKqHl58l.jpg?size=400x400&quality=96&crop=919,217,860,860&ava=1"
+        },
+        "542063563": {
+            "Name": "Вадим Кузьмин",
+            "link": "https://vk.com/542063563",
+            "Photo": "https://sun1-28.userapi.com/s/v1/ig2/lpgoEJv0E_-494A2Qp4hQzXPIEUBJVtM4fTtNkSsbNWIrBNoGu0Cf0CKo6PgMM6zd1D8Ud69hTUcbXY4k7VmyOb6.jpg?size=400x400&quality=95&crop=1,0,734,734&ava=1"
+        },
+        "546437424": {
+            "Name": "Амелия Капитанова",
+            "link": "https://vk.com/546437424",
+            "Photo": "https://sun1-29.userapi.com/s/v1/ig2/eg5hDl1SB_C8fK9ImDMLxy2sO0_8qIojczUbbtuR_nGiPWGNh1h-S9CGlRsvqEbjvBtsrCDVvfk9IIAedhxqe3lI.jpg?size=268x268&quality=96&crop=62,34,268,268&ava=1"
+        },
+        "549012114": {
+            "Name": "Рома Клинов",
+            "link": "https://vk.com/549012114",
+            "Photo": "https://sun1-17.userapi.com/s/v1/ig2/MhoWzgmiddk4jKBvgg0Ino5RXAibkphgkFYJUL5fAxSuBxX_GMRKrrxU9pnxmca0LjDSKWuflYxyYmzX0R99qrI_.jpg?size=400x400&quality=95&crop=238,0,719,719&ava=1"
+        },
+        "549166890": {
+            "Name": "Таратект Малый-Слабый",
+            "link": "https://vk.com/549166890",
+            "Photo": "https://sun1-55.userapi.com/s/v1/ig2/g5mfu7A7LAKgiF8KmhYUoI6oZh2gqIwiojOejOSmTE4_riB0L7NAfZM_GwrMfZhVu5fxPdV6Sv-Rm3B39pH28NyZ.jpg?size=400x400&quality=95&crop=0,0,511,511&ava=1"
+        },
+        "549379446": {
+            "Name": "Максим Пелих",
+            "link": "https://vk.com/549379446",
+            "Photo": "https://sun1-93.userapi.com/s/v1/ig2/SSgUnTQ7hp8plBwQZh9GDrcWdRGXdNopenK6haoFF4kM11qLm3ShOwxYGjGC_7gyGsfGfSXkSRdpeDHeedGVU1bV.jpg?size=400x400&quality=95&crop=164,162,802,802&ava=1"
+        },
+        "554283715": {
+            "Name": "Александр Сангвин",
+            "link": "https://vk.com/554283715",
+            "Photo": "https://sun1-18.userapi.com/s/v1/ig2/jXhPkLzj3lxSZzhNLZ2uAHjwjaZ0Apd66wmFa2FQ6EOMRJMS7MBQkT6dzz--S78iUaF1RaSs93vvBYXmV3rKPeiX.jpg?size=400x400&quality=95&crop=106,0,481,481&ava=1"
+        },
+        "558901205": {
+            "Name": "Шишка Монголидная",
+            "link": "https://vk.com/558901205",
+            "Photo": "https://sun1-91.userapi.com/s/v1/ig2/KIHlmeVnxdG-Z1lDxSYJJY9Hbv-aqF269s--x1pQm6L1QyEWm3NKBkqToa4_U28eqfKXE_byc_MTT3clBs3IdoV5.jpg?size=400x400&quality=95&crop=0,37,719,719&ava=1"
+        },
+        "565328835": {
+            "Name": "Роман Зимичев",
+            "link": "https://vk.com/565328835",
+            "Photo": "https://sun1-24.userapi.com/s/v1/ig2/9tnog6KGouV8mv4znPWoN89u3osqiLN5gFRPpSR-MM76FglNyP-zV_1BXK1DTcc8YlYObRwp4EaMSeP2SlVmZuPP.jpg?size=400x400&quality=95&crop=373,373,706,706&ava=1"
+        },
+        "566708146": {
+            "Name": "Катя Кремнева",
+            "link": "https://vk.com/566708146",
+            "Photo": "https://sun1-29.userapi.com/s/v1/if1/YgTTP3F9hMT2ddG-9he8bl_1w2dZ6IE8hkAyO5bCjTsc3cM-PksoFvEGx2ltcw5WLAHV3MPc.jpg?size=400x400&quality=96&crop=0,0,512,512&ava=1"
+        },
+        "569542683": {
+            "Name": "Таир Камитов",
+            "link": "https://vk.com/569542683",
+            "Photo": "https://vk.com/images/camera_200.png"
+        },
+        "570240752": {
+            "Name": "Арсений Вальтер",
+            "link": "https://vk.com/570240752",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/pb5gnFtdG8h_Ewn0-yQ93PpuzfdgOCa9ehR-voVt9JvstMHcIOGmiOYV0pGhuq0KMoa3c1yvBsMTxjqzVBrZ3sdD.jpg?size=400x400&quality=96&crop=200,336,768,768&ava=1"
+        },
+        "571195447": {
+            "Name": "Cecile Rhodes",
+            "link": "https://vk.com/571195447",
+            "Photo": "https://sun1-57.userapi.com/s/v1/ig2/VyhMYlRhDK_5KJXB0g3wrrpSRIaF5jBE5jp9mYJgADYKgZZVCueuDoY_CnPD_AydoBjEwUsb6cJiBM87po6eBsMn.jpg?size=400x400&quality=95&crop=48,0,442,442&ava=1"
+        },
+        "571622402": {
+            "Name": "Павел Нугаев",
+            "link": "https://vk.com/571622402",
+            "Photo": "https://sun1-13.userapi.com/s/v1/ig2/Y1Vk8xQsaWE0VWtQwDP27kj6QXjSQXJZ9eQkEDTSHWriA0U_LvcB4m9Rp2sAYxU6Dhio6RHpHqJ0hV2AzO8TVS36.jpg?size=400x400&quality=95&crop=131,0,489,489&ava=1"
+        },
+        "575310069": {
+            "Name": "Ilya Glushkevich",
+            "link": "https://vk.com/575310069",
+            "Photo": "https://sun1-20.userapi.com/s/v1/ig2/5V6LOP59W0OoO_6RWuE72Z2euMKSMJiUB-t_ktSab9pfGi8kiLJPxGAdwXWN1L_stB5FZo_L6EaYWYT0r7tcRpIW.jpg?size=370x370&quality=96&crop=255,148,370,370&ava=1"
+        },
+        "578998418": {
+            "Name": "ฺ ฺ",
+            "link": "https://vk.com/578998418",
+            "Photo": "https://sun1-25.userapi.com/s/v1/ig2/F7ctlb0WN6iIXnx22Ak1XuZrerS09sy7eJFOtW1d-b_vY1bPRd3sB5IbO5JPcePyLzbM5jQgxuPa5BcFFnpZOzbR.jpg?size=400x400&quality=96&crop=0,0,449,449&ava=1"
+        },
+        "580400661": {
+            "Name": "Тимофей Чернышёв",
+            "link": "https://vk.com/580400661",
+            "Photo": "https://sun1-26.userapi.com/s/v1/ig2/DPti1FvRtKpeBF8ELsi7icrlJ_hrJze0dgXba9-lnVIFk30QeglZHDVTnqRKjFB10aOOh0LFw2ym0z_yPoaSexCW.jpg?size=400x400&quality=95&crop=146,48,488,488&ava=1"
+        },
+        "586210335": {
+            "Name": "Роберт Гнарский",
+            "link": "https://vk.com/586210335",
+            "Photo": "https://sun1-14.userapi.com/s/v1/ig2/_o2rsZbnOJuVfAZT-fnF91M4rrS9fm7cOYDVMwNi4xO4arE3FMmIOBmBzH2o7nMknxTb1u3uGavb9r7ty10WwNZ_.jpg?size=400x400&quality=95&crop=147,31,521,521&ava=1"
+        },
+        "586399893": {
+            "Name": "Vsevolod Volya",
+            "link": "https://vk.com/586399893",
+            "Photo": "https://sun1-30.userapi.com/s/v1/ig2/P7bltxYln6zIgQqAfd3WFd89O2OCY5jqwVIZCFv6WXhLvpvAelr2xi8YhdwytaDInhcdoJ5TYA8qIrNFtoBsAp9W.jpg?size=400x400&quality=95&crop=106,90,773,773&ava=1"
+        },
+        "587994032": {
+            "Name": "Лидия Абакумова",
+            "link": "https://vk.com/587994032",
+            "Photo": "https://vk.com/images/camera_200.png"
+        },
+        "588866159": {
+            "Name": "Вова Лыгин",
+            "link": "https://vk.com/588866159",
+            "Photo": "https://sun1-83.userapi.com/s/v1/ig2/duoBgwQ8G8vmmXLBHxkehvsjXz4j7zChkDXw49vrt1Kjt4bPMACzFWPneUA_6bnwX4Dau19_2vHUGdLqpULwtWZm.jpg?size=400x400&quality=95&crop=111,239,427,427&ava=1"
+        },
+        "593429059": {
+            "Name": "Тит Тт",
+            "link": "https://vk.com/593429059",
+            "Photo": "https://sun1-93.userapi.com/s/v1/ig2/vpJ3tIO4AeZxRXGka74k1HcO3h1mOJhU7ZmMig87i1ZY6mOVQkNHy8LpY2y5dAD7tCDjd3xS8NBbYtzYjm64VX1l.jpg?size=283x283&quality=95&crop=143,202,283,283&ava=1"
+        },
+        "598600217": {
+            "Name": "Андрей Алексеев",
+            "link": "https://vk.com/598600217",
+            "Photo": "https://sun1-88.userapi.com/s/v1/ig2/WN3wVlsWzRfAWxVHYbSr4rXqTaZODt3IpOHqYA02QfHrSGraDY_msj9vaNcfsP5dy4oXqQbibzArhw8denPouQ8K.jpg?size=400x400&quality=96&crop=358,143,1081,1081&ava=1"
+        },
+        "604182509": {
+            "Name": "Ярослава Ревялова",
+            "link": "https://vk.com/604182509",
+            "Photo": "https://sun1-13.userapi.com/s/v1/ig2/nySrXROztIhzrQc8aGQVUJ0OzCMhY2hk69wNkJX6AVO2ZRKDc4eoPVNFQlcMLI8fVn-qpFLy1q9-XZj40maE8z3_.jpg?size=400x400&quality=95&crop=94,0,1246,1246&ava=1"
+        },
+        "604863092": {
+            "Name": "Руслан Александров",
+            "link": "https://vk.com/604863092",
+            "Photo": "https://sun1-27.userapi.com/s/v1/ig2/cEQmMT1S5LmlaCPHyKy5oU6PkznM0Xct1XAGwCm6DcjvfKxy3znzWIBMEtPwXSrbGARxZkT-KwNwk-d3jsOqvXEi.jpg?size=400x400&quality=95&crop=80,34,504,504&ava=1"
+        },
+        "608968308": {
+            "Name": "Никита Малинин",
+            "link": "https://vk.com/608968308",
+            "Photo": "https://sun1-89.userapi.com/s/v1/ig2/qBtvi2DCrtYZjOC5QJEn6vhDZVKosDeW5y7Jmrgk7UNi_7WBm7F6xU38HTHmNXzMVhSoxM-h5TzfBfM33B8jlZ-G.jpg?size=400x400&quality=95&crop=437,5,1915,1915&ava=1"
+        },
+        "626954589": {
+            "Name": "Антон Скучный",
+            "link": "https://vk.com/626954589",
+            "Photo": "https://sun1-99.userapi.com/s/v1/ig2/Cheepa9h1FfjlxOs5C_KzWhxGA087Ku-BI8s7FiNK608bVtJdZuhPi1VH2fCD6FVhghWrDhl_qJjaeLoID4Ytn8J.jpg?size=400x400&quality=95&crop=144,474,576,576&ava=1"
+        },
+        "630302716": {
+            "Name": "Александр Долгоруков",
+            "link": "https://vk.com/630302716",
+            "Photo": "https://vk.com/images/camera_200.png"
+        },
+        "634822533": {
+            "Name": "Арсений Поляков",
+            "link": "https://vk.com/634822533",
+            "Photo": "https://sun1-29.userapi.com/s/v1/ig2/OZOSdA2uTK0TCrRF6C0ktmqTYl4jvRZk-HsYsUNOZeXqvRSO-n1ecbgpLaFYS5O7gUhHNOSqFlYZQKKjG7bY-x2N.jpg?size=400x400&quality=96&crop=220,0,460,460&ava=1"
+        },
+        "637915775": {
+            "Name": "Крутентенкнет Шмоточковкулебздякин",
+            "link": "https://vk.com/637915775",
+            "Photo": "https://sun1-56.userapi.com/s/v1/ig2/5GL16qgDsNePwwcryEuv3bvx0xr6xusgWWuP76mJHRTJ41PhYP561imsu0ejK72NGhdoOVL_uyTr_QQw2BDy0N8D.jpg?size=400x400&quality=95&crop=320,121,960,960&ava=1"
+        },
+        "640231446": {
+            "Name": "Ильдар Шакирзянов",
+            "link": "https://vk.com/640231446",
+            "Photo": "https://sun1-27.userapi.com/s/v1/ig2/e5XoGyKkHzftginQ9-rQ3tcADvVjyt2TdLS0C-JsXm3Nzve16zPg-boPsVAVcP86fyhKw-HZoTtzRnV8QbWQHMva.jpg?size=400x400&quality=95&crop=11,154,1074,1074&ava=1"
+        },
+        "642221588": {
+            "Name": "Псевдослучайный Проходимец",
+            "link": "https://vk.com/642221588",
+            "Photo": "https://sun1-89.userapi.com/s/v1/ig2/qm1APOB0mTSiCDfg62nFqWlziX8oFAsz_uNxpzC1MHNiPmqqy7m5vOQGEjxxbWmTMpM_zMb56kzVmAv2wKC88eGA.jpg?size=400x400&quality=95&crop=262,0,675,675&ava=1"
+        },
+        "649957914": {
+            "Name": "Гигемольтц Кирзаков-Ульянов",
+            "link": "https://vk.com/649957914",
+            "Photo": "https://sun1-88.userapi.com/s/v1/ig2/GWMhaGXG5R60fdS77BAMGXYYy5CCOkeyz3Vn1umzOaTzqncbE55RktP2yFnpI4looLO1jAcIkKy5cvA3KEnAwgvb.jpg?size=299x299&quality=96&crop=183,31,299,299&ava=1"
+        },
+        "661349271": {
+            "Name": "Юрий Иванов",
+            "link": "https://vk.com/661349271",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/BngKUvNUD4_M3g3maOffxLqmWSMlsqeXoYTjRHzDY4x7Rt7qibSy8iPlI13ROVvOYQG9Q5TpseQsG0Z4sBhBBXCO.jpg?size=400x400&quality=96&crop=25,35,571,571&ava=1"
+        },
+        "677309897": {
+            "Name": "Walter White",
+            "link": "https://vk.com/677309897",
+            "Photo": "https://sun1-90.userapi.com/s/v1/ig2/KrVXBO214mdfsX4FFiSgrjjhsKuuDMfRQboyUYP0YAGW9Pg3dQd7FJG53td4iqOkTq74p0ukUZ4Q82p7crbL1cN-.jpg?size=400x400&quality=95&crop=1,243,640,640&ava=1"
+        },
+        "695041517": {
+            "Name": "Вольдемар Пынько",
+            "link": "https://vk.com/695041517",
+            "Photo": "https://sun1-13.userapi.com/s/v1/ig2/MN4A3kCWvCKyqNMk_sjgF-pb4ptmbGqf7V9MpkSps1uDBzGi3mvdkTd7_JCPGMMjtJGkc0W73lTI7LcU7Rlde32M.jpg?size=400x400&quality=95&crop=138,0,650,650&ava=1"
+        },
+        "700860151": {
+            "Name": "Demetrius Radziewicz",
+            "link": "https://vk.com/700860151",
+            "Photo": "https://sun1-86.userapi.com/s/v1/ig2/krvgLm2yBCzThWQwMUkCV0VkKwj6tt2mRueKpqGf7RBMgyCK3rF6YA9WD4MO0ggAfpXy36F5-tTykIVRdV2HYPK5.jpg?size=400x400&quality=95&crop=1024,0,1259,1259&ava=1"
+        },
+        "720315073": {
+            "Name": "Никита Лыткин",
+            "link": "https://vk.com/720315073",
+            "Photo": "https://sun1-91.userapi.com/s/v1/ig2/dbkWsrhH1BeZU9GBAKje4oQHpU1Y82AF70Ko4bO2FMgkdyH2OkV3nnZCZ0Df_6RYoZE-Q3NDhLcRSVc9EPgR4Pf9.jpg?size=193x193&quality=96&crop=592,826,193,193&ava=1"
+        },
+        "720938747": {
+            "Name": "Дарья Савостьянова",
+            "link": "https://vk.com/720938747",
+            "Photo": "https://sun1-84.userapi.com/s/v1/ig2/Gbq7aAo3Qkh5VLpQMvoDJLV8xub8XG_EsrQMraaU1wxxPlL42zK9-Fj1DwZKQu3xAqA7w4kdOIRQj92QPewR6-Ju.jpg?size=400x400&quality=95&crop=185,348,1396,1396&ava=1"
+        },
+        "733949516": {
+            "Name": "Тихон Попович",
+            "link": "https://vk.com/733949516",
+            "Photo": "https://sun1-13.userapi.com/s/v1/ig2/48qGFTE0j0ATHplQF-jLgwfaED5ZGNYNckrlcnaAdnpDja_SP77BZ3v4bI351njfw8lGU27vcApQxFIi8QBCCP2C.jpg?size=331x331&quality=95&crop=155,570,331,331&ava=1"
+        },
+        "738176275": {
+            "Name": "Даниил Нещеретний",
+            "link": "https://vk.com/738176275",
+            "Photo": "https://sun1-22.userapi.com/s/v1/ig2/7adWs1HdtjldJaRrMShFAXkF_NXpIioohoy-pInVDCdWeFSynaR2LfXo_r-nZBzCLACm1NgEpPNLAI4lksrHliJP.jpg?size=400x400&quality=95&crop=69,175,434,434&ava=1"
+        },
+        "740592146": {
+            "Name": "Ян Сент-Ави",
+            "link": "https://vk.com/740592146",
+            "Photo": "https://sun1-91.userapi.com/s/v1/ig2/5rdOs48JI_N90b199GMVwjXAmq15B4vYTJWb_Bg0MXV85DXAHKxy4nexn0z58ug_Tzl-0pMugm-AXv-W8JqiV6Xy.jpg?size=400x400&quality=95&crop=106,132,429,429&ava=1"
+        },
+        "768571498": {
+            "Name": "Александра Нельская",
+            "link": "https://vk.com/768571498",
+            "Photo": "https://sun1-30.userapi.com/s/v1/ig2/0wKbHMznJkLeSl8ldh-WF6_WR6FO3SyMhs7-k8FPIM_em4iIuy1Rw6r6yKfgyW1h13T9OUwGoKHuW7AaAjxceuL9.jpg?size=400x400&quality=95&crop=26,0,1182,1182&ava=1"
+        }
+    }
+}

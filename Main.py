@@ -4,7 +4,6 @@ from App_files.Checker import Checker
 from threading import Thread
 from openpyxl import Workbook
 import requests
-import time
 import sys
 import os
 
@@ -68,9 +67,9 @@ def New_file():
     if not Checked_for_error():
         return
 
-    f_path = os.getcwd() + f"/New_tables/Table_{params['group_id']}.xlsx"
+    f_path = os.getcwd() + f"/New_tables/Table_{params['group_id']}"
     wb = Workbook()
-    wb.save(f_path)
+    wb.save(f"{f_path}.xlsx")
 
     calculate = Thread(target=Begin_to_main ,args=(f_path, True))
     calculate.start()
